@@ -1,4 +1,4 @@
-# Hashscan
+# Hashscan   Developed by ALOK PUROHIT , OpenSource Licensed under the Apache License, Version 2.0
 Hashscan is file hash scanner  which scan given hash (MD5/SHA1/SHA256) on host machine and provide the path of file.
 1. Run HashScan .exe
 2.  Enter File Hash (MD5/SHA1/SHA256)
